@@ -919,8 +919,8 @@ ul {
 }
 .rs-banner .banner-text-part .banner-title {
   color: #ffffff;
-  font-size: 80px;
-  font-weight: 600;
+  font-size: 40;
+  font-weight: 400;
 }
 .rs-banner .banner-img-part {
   width: 100%;
@@ -1336,6 +1336,13 @@ ul {
 .rs-testimonial .single-testimonial .testimonial-author .author-img img {
   border-radius: 100%;
 }
+.rs-testimonial .single-testimonial .testimonial-author .company-img img {
+  float: left;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
+}
+
 .rs-testimonial .single-testimonial .testimonial-author .author-info .author-title {
   font-size: 20px;
   font-weight: 600;
