@@ -1335,6 +1335,7 @@ ul {
 }
 .rs-testimonial .single-testimonial .testimonial-author .author-img img {
   border-radius: 100%;
+  max-width: 70%;
 }
 .rs-testimonial .single-testimonial .testimonial-author .company-img img {
   float: left;
